@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Grundkurs\Collections\Dictionary\" />
+    <Folder Include="Grundkurs\Collections\Lists\" />
+    <Folder Include="Grundkurs\Collections\Structs\" />
+    <Folder Include="Grundkurs\Collections\Stacks\" />
+    <Folder Include="Grundkurs\Collections\Queue\" />
+    <Folder Include="Grundkurs\Konvertierung\Datentypen\" />
+    <Folder Include="Grundkurs\Konvertierung\Objektreferenz\" />
+    <Folder Include="Grundkurs\Linq\" />
+    <Folder Include="Grundkurs\Datentypen\" />
+    <Folder Include="Grundkurs\Delegates\" />
+    <Folder Include="Grundkurs\Interfaces\" />
+    <Folder Include="Grundkurs\Lambda\" />
+    <Folder Include="Grundkurs\Methoden\Abstakte Methoden\" />
+    <Folder Include="Grundkurs\Methoden\Überladene Methoden\" />
+    <Folder Include="Grundkurs\Methoden\Verdeckte Methoden\" />
+    <Folder Include="Grundkurs\Konstruktoren\" />
+    <Folder Include="Grundkurs\Vererbung\" />
+    <Folder Include="Grundkurs\Polymorphie\" />
+  </ItemGroup>
+
+</Project>

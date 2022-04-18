@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Grundkurs", "Grundkurs", "{F4CFC195-857C-4FB5-AEA4-8C1E75594E1F}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konsole", "Konsole\Konsole.csproj", "{C145AA67-712D-4D18-A79C-D60E9E739C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C145AA67-712D-4D18-A79C-D60E9E739C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C145AA67-712D-4D18-A79C-D60E9E739C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C145AA67-712D-4D18-A79C-D60E9E739C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C145AA67-712D-4D18-A79C-D60E9E739C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C145AA67-712D-4D18-A79C-D60E9E739C1C} = {F4CFC195-857C-4FB5-AEA4-8C1E75594E1F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6122FF13-2DFC-4D56-9CCF-ED3F3FA5E63F}
+	EndGlobalSection
+EndGlobal
